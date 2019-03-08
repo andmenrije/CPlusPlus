@@ -1,0 +1,8 @@
+﻿  Pipeline.cpp
+d:\projects\c++ tutorialvideos\pipeline\pipeline\pipeline\pipeline.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  d:\projects\c++ tutorialvideos\pipeline\pipeline\pipeline\pipeline.cpp(68): note: see reference to function template instantiation 'std::function<int (int)> makePipeline<int>(const std::vector<std::function<int (int)>,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=std::function<int (int)>
+          ]
+  Pipeline.vcxproj -> D:\Projects\C++ TutorialVideos\Pipeline\Pipeline\Debug\Pipeline.exe
